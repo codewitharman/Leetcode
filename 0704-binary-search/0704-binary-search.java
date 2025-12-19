@@ -1,16 +1,10 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int start = 0, end = nums.length - 1;
-        while (start <= end) {
-            int mid = (start + end) / 2;
-            if (nums[mid] == target) {
-                return mid;
-            } else if (target > nums[mid]) {
-                start = mid + 1;
-            } else {
-                end = mid - 1;
-            }
+        int index = Arrays.binarySearch(nums, target);
+        if (index >= 0) {
+            return index;
+        } else {
+            return -1;
         }
-        return -1;
     }
 }
