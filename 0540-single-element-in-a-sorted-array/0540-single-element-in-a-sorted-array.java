@@ -1,9 +1,15 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        int ans = 0;
+        Map<Integer, Integer> map = new HashMap<>();
         for (int num : nums) {
-            ans = ans ^ num;
+            map.put(num, map.getOrDefault(num, 0) + 1);
         }
-        return ans;
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            if (entry.getValue() == 1) {
+                return entry.getKey();
+            }
+        }
+
+        return -1;
     }
 }
