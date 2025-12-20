@@ -9,8 +9,9 @@ class Solution {
                 min = Math.min(min, nums[start]);
                 start = mid + 1;
             } else {
-                end = mid - 1;
                 min = Math.min(min, nums[mid]);
+                                end = mid - 1;
+
             }
         }
 
