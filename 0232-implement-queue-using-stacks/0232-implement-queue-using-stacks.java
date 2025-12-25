@@ -1,53 +1,51 @@
+import java.util.Stack;
+
 class MyQueue {
 
-    Stack<Integer> input, output;
+    private Stack<Integer> stack;
 
     public MyQueue() {
-        input = new Stack<>();
-        output = new Stack<>();
+        stack = new Stack<>();
     }
 
     public void push(int x) {
-        input.push(x);
+        stack.push(x);
     }
 
     public int pop() {
-        if (output.isEmpty()) {
-            while (!input.isEmpty()) {
-                output.push(input.pop());
-            }
-        }
-
-        if (output.isEmpty()) {
-            return -1;
-        }
-
-        return output.pop();
+        return removeBottom();
     }
 
     public int peek() {
-        if (output.isEmpty()) {
-            while (!input.isEmpty()) {
-                output.push(input.pop());
-            }
-        }
-        if (output.isEmpty()) {
-            return -1;
-        }
-
-        return output.peek();
+        return getBottom();
     }
 
     public boolean empty() {
-        return input.isEmpty() && output.isEmpty();
+        return stack.isEmpty();
+    }
+
+    private int removeBottom() {
+        int top = stack.pop();
+
+        if (stack.isEmpty()) {
+            return top;
+        }
+
+        int bottom = removeBottom();
+        stack.push(top);
+        return bottom;
+    }
+
+    private int getBottom() {
+        int top = stack.pop();
+
+        if (stack.isEmpty()) {
+            stack.push(top);
+            return top;
+        }
+
+        int bottom = getBottom();
+        stack.push(top);
+        return bottom;
     }
 }
-
-/**
- * Your MyQueue object will be instantiated and called as such:
- * MyQueue obj = new MyQueue();
- * obj.push(x);
- * int param_2 = obj.pop();
- * int param_3 = obj.peek();
- * boolean param_4 = obj.empty();
- */
