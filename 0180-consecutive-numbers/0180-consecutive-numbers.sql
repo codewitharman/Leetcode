@@ -1,11 +1,16 @@
-# Write your MySQL query statement below
-SELECT L1.NUM AS ConsecutiveNums
-FROM LOGS L1,LOGS L2, LOGS L3
-WHERE L1.ID-L2.ID=1
-AND L2.ID-L3.ID=1
-AND L1.NUM=L2.NUM
-AND L2.NUM=L3.NUM
-AND L3.NUM=L1.NUM
-GROUP BY L1.NUM
-
- 
+WITH ConsecutiveNumAnalysis
+AS (
+	SELECT Id
+		,Num AS CurrNum
+		,lag(Num) OVER (
+			ORDER BY Id
+			) AS PrevNum
+		,lead(Num) OVER (
+			ORDER BY Id
+			) AS NextNum
+	FROM Logs
+	)
+SELECT DISTINCT CurrNum AS ConsecutiveNums
+FROM ConsecutiveNumAnalysis
+WHERE CurrNum = PrevNum
+	AND CurrNum = NextNum
