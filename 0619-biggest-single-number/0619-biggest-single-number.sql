@@ -1,4 +1,10 @@
 # Write your MySQL query statement below
-select max(num) as num
-from mynumbers 
-where num in (select num from mynumbers group by num having count(num)=1)
+WITH single_number AS(
+  SELECT num, count(num) as num_count
+  FROM MyNumbers
+  GROUP BY num
+  HAVING count(num)=1
+)
+
+SELECT max(num) as num
+FROM single_number
