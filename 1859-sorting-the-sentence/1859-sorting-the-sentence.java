@@ -1,15 +1,17 @@
 class Solution {
     public String sortSentence(String s) {
         String[] words = s.split(" ");
-        String[] result = new String[words.length];
-        for (int i = 0; i < words.length; i++) {
-            char lastChar = words[i].charAt(words[i].length() - 1);
-
-            int pos = lastChar - '1';
-            result[pos] = words[i].substring(0, words[i].length() - 1);
-
+        Map<Integer,String> map=new HashMap<>();
+        for(String word :words){
+            int pos=word.charAt(word.length() - 1) - '0';  //position
+            map.put(pos,word.substring(0, word.length() - 1)); //wordwithouthenumber
         }
 
-        return String.join(" ", result);
+        StringBuilder sb = new StringBuilder();
+        for(int i = 1; i <= words.length; i++){ 
+            sb.append(map.get(i)).append(" ");   //get the index 1 word to n and append them with spaces in it 
+        }
+        return sb.toString().trim();  //remove the ending/trailing white space
+
     }
 }
