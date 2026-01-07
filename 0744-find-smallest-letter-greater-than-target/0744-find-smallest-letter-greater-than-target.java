@@ -4,9 +4,9 @@ class Solution {
         if(target=='z') return letters[0];
         if(letters[letters.length-1]==target) return letters[0];
 
-       for (char c : letters) {
-            if (c > target) {
-                return c;
+       for(int i=0;i<letters.length;i++){
+            if(letters[i]>target){
+                return letters[i];
             }
         }
         return letters[0];
