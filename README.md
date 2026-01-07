@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/codewitharman/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/codewitharman/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codewitharman/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/codewitharman/Leetcode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/codewitharman/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/codewitharman/Leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codewitharman/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/codewitharman/Leetcode/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/codewitharman/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/codewitharman/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/codewitharman/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2540-minimum-common-value](https://github.com/codewitharman/Leetcode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/codewitharman/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/codewitharman/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/codewitharman/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2540-minimum-common-value](https://github.com/codewitharman/Leetcode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
