@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/codewitharman/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/codewitharman/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/codewitharman/Leetcode/tree/master/0268-missing-number) |
+| [1859-sorting-the-sentence](https://github.com/codewitharman/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Database
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/codewitharman/Leetcode/tree/master/0020-valid-parentheses) |
+| [1859-sorting-the-sentence](https://github.com/codewitharman/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Monotonic Stack
 |  |
 | ------- |
