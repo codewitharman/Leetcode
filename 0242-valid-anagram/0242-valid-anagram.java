@@ -3,20 +3,22 @@ class Solution {
         if (s.length() != t.length()) {
             return false;
         }
-        Map<Character, Integer> map = new HashMap<>();
-        for (char ch : s.toCharArray()) {
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+        int nums[] = new int[26];
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+            int index = ch - 'a';
+            nums[index] = nums[index] + 1;
         }
-        for (char ch : t.toCharArray()) {
-            if (!map.containsKey(ch)) {
+        for (int i = 0; i < t.length(); i++) {
+            char ch = t.charAt(i);
+            int index = ch - 'a';
+            nums[index] = nums[index] - 1;
+        }
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] != 0) {
                 return false;
             }
-            map.put(ch, map.get(ch) - 1); //remove frquency 1 by 1
-            if (map.get(ch) == 0) {
-                map.remove(ch); //once its 0 then remove that element too
-            }
         }
-
-        return map.isEmpty();
+        return true;
     }
 }
