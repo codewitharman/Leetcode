@@ -3,13 +3,13 @@ class Solution {
         int count = 0;
         if (s.length() == 0)
             return count;
-        String str = s.trim();
-        for (int i = str.length()-1; i >= 0; i--) {
-            if (str.charAt(i) == ' ') {
-                break;
-            } else {
-                count++;
-            }
+        int i = s.length() - 1;
+        while (i >= 0 && s.charAt(i) == ' ') {
+            i--;
+        } 
+        while (i >= 0 && s.charAt(i) != ' ') {
+            count++;
+            i--;
         }
 
         return count;
