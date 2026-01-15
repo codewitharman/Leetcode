@@ -1,24 +1,13 @@
 class Solution {
     public String reverseWords(String s) {
-        char[] arr = s.toCharArray();
-        int start = 0;
+        String[] wordsArray = s.trim().split("\\s+"); //spilt on the basis of spaces
+        List<String> wordsList = Arrays.asList(wordsArray);
+        String res = "";
+        for (String word : wordsList) {
+            StringBuilder sb = new StringBuilder(word);
+            res = res + sb.reverse() + " ";
 
-        for (int i = 0; i <= arr.length; i++) {
-            if (i == arr.length || arr[i] == ' ') {
-                reverse(arr, start, i - 1);
-                start = i + 1;
-            }
         }
-        return new String(arr);
-    }
-
-    private void reverse(char[] arr, int left, int right) {
-        while (left < right) {
-            char temp = arr[left];
-            arr[left] = arr[right];
-            arr[right] = temp;
-            left++;
-            right--;
-        }
+        return res.trim();
     }
 }
