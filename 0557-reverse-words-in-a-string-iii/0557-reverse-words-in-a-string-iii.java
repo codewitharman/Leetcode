@@ -4,7 +4,7 @@ class Solution {
         List<String> wordsList = Arrays.asList(wordsArray);
         String res = "";
         for (String word : wordsList) {
-            StringBuilder sb = new StringBuilder(word);
+            StringBuffer sb = new StringBuffer(word);
             res = res + sb.reverse() + " ";
 
         }
