@@ -5,18 +5,25 @@ class Solution {
         int end = arr.length - 1;
 
         while (start < end) {
-            if (!Character.isLetter(arr[start])) {
-                start++;
-            } else if (!Character.isLetter(arr[end])) {
-                end--;
+            if ((arr[start] >= 'a' && arr[start] <= 'z') ||
+                    (arr[start] >= 'A' && arr[start] <= 'Z')) {
+
+                if ((arr[end] >= 'a' && arr[end] <= 'z') ||
+                        (arr[end] >= 'A' && arr[end] <= 'Z')) {
+
+                    char temp = arr[start];
+                    arr[start] = arr[end];
+                    arr[end] = temp;
+                    start++;
+                    end--;
+                } else {
+                    end--;
+                }
             } else {
-                char temp = arr[start];
-                arr[start] = arr[end];
-                arr[end] = temp;
                 start++;
-                end--;
             }
         }
+
         return new String(arr);
     }
 }
