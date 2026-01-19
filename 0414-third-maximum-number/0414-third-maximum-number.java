@@ -8,10 +8,14 @@ class Solution {
             int last = ((TreeSet<Integer>) set).last();
             return last;
         }
-        List<Integer> list = new ArrayList<>(set);
-        if (list.size() >= 3) {
-            int thirdLast = list.get(list.size() - 3);
-            return thirdLast;
+        int[] intArray = new int[set.size()];
+        int index = 0;
+        for (Integer num : set) {
+            intArray[index++] = num;
+        }
+
+        if (intArray.length > 2) {
+            return intArray[intArray.length - 3];
         }
 
         return 0;
