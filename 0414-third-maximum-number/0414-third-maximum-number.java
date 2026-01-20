@@ -1,27 +1,13 @@
 class Solution {
     public int thirdMax(int[] nums) {
-
-        long max = Long.MIN_VALUE;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] > max) {
-                max = nums[i];
-            }
+        TreeSet<Integer> set = new TreeSet<>();
+        for (int num : nums) {
+            set.add(num);
         }
-
-        long secondMax = Long.MIN_VALUE;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != max && nums[i] > secondMax) {
-                secondMax = nums[i];
-            }
+        if (set.size() < 3) {
+           return set.last();
         }
-
-        long thirdMax = Long.MIN_VALUE;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != max && nums[i] != secondMax && nums[i] > thirdMax) {
-                thirdMax = nums[i];
-            }
-        }
-
-        return (thirdMax == Long.MIN_VALUE) ? (int) max : (int) thirdMax;
+        List<Integer> list = new ArrayList<>(set);
+        return list.get(list.size() - 3);
     }
 }
