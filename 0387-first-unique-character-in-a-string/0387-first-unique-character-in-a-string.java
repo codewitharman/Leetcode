@@ -1,16 +1,18 @@
+
 class Solution {
     public int firstUniqChar(String s) {
-        Map<Character, Integer> map = new HashMap<>();
-        Queue<Integer> queue=new LinkedList<>();
-       for(int i =0;i<s.length();i++){
-            char ch=s.charAt(i);
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
-            queue.offer(i);
-            while (!queue.isEmpty() && map.get(s.charAt(queue.peek())) > 1) {
-                queue.poll();
-            }
-       }
+        Map<Character, Integer> freqMap = new HashMap<>();
         
-        return queue.isEmpty() ? -1 : queue.peek();
+        for (char c : s.toCharArray()) {
+            freqMap.put(c, freqMap.getOrDefault(c, 0) + 1);
+        }
+        
+        for (int i = 0; i < s.length(); ++i) {
+            if (freqMap.get(s.charAt(i)) == 1) {
+                return i;
+            }
+        }
+        
+        return -1;
     }
 }
