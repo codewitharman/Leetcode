@@ -1,10 +1,12 @@
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
+        Map<Character, Integer> map = new HashMap<>();
+        for (char s : stones.toCharArray()) {
+            map.put(s, map.getOrDefault(s, 0) + 1);
+        }
         int count = 0;
-        for (int i = 0; i < stones.length(); i++) {
-            if (jewels.indexOf(stones.charAt(i)) != -1) {
-                count++;
-            }
+        for (char j : jewels.toCharArray()) {
+            count = count + map.getOrDefault(j, 0);
         }
 
         return count;
