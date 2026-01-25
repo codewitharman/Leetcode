@@ -1,7 +1,9 @@
 class Solution {
     public int findKthPositive(int[] arr, int k) {
         for (int i = 0; i < arr.length; i++) {
-            int missing = arr[i] - (i + 1);
+            int actualNumber=arr[i];
+            int expectedNumber=i + 1;
+            int missing = actualNumber - expectedNumber;
             if (missing >= k) {
                 {
                     return k + i;
@@ -9,7 +11,8 @@ class Solution {
             }
 
         }
-        int totalMissing = arr[arr.length - 1] - arr.length;
+        int n=arr.length;
+        int totalMissing = arr[n - 1] - n;
         int remaining = k - totalMissing;
         return arr[arr.length - 1] + remaining;
     }
