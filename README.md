@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/codewitharman/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/codewitharman/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/codewitharman/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0806-number-of-lines-to-write-string](https://github.com/codewitharman/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/codewitharman/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/codewitharman/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1539-kth-missing-positive-number](https://github.com/codewitharman/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/codewitharman/Leetcode/tree/master/0409-longest-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/codewitharman/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/codewitharman/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0806-number-of-lines-to-write-string](https://github.com/codewitharman/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0917-reverse-only-letters](https://github.com/codewitharman/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1859-sorting-the-sentence](https://github.com/codewitharman/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/codewitharman/Leetcode/tree/master/2000-reverse-prefix-of-word) |
