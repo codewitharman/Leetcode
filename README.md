@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/codewitharman/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/codewitharman/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/codewitharman/Leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/codewitharman/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/codewitharman/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/codewitharman/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/codewitharman/Leetcode/tree/master/0342-power-of-four) |
