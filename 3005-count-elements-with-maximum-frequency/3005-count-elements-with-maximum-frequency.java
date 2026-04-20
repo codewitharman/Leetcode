@@ -1,24 +1,26 @@
 class Solution {
     public int maxFrequencyElements(int[] nums) {
-        Map<Integer,Integer> map=new HashMap<>();
+        char[] freq=new char[256];
+
         for(int num: nums){
-            map.put(num,map.getOrDefault(num,0)+1);
+            freq[num]++;
         }
 
-        int max=Integer.MIN_VALUE;
-        for(Map.Entry<Integer,Integer> entry:map.entrySet()){
-            if(entry.getValue()>max){
-                max=entry.getValue();
+        int max=-1;
+        for(int i=0;i<freq.length;i++){
+            if(freq[i]>max){
+                max=freq[i];
             }
         }
 
         int sum=0;
-        for(Map.Entry<Integer,Integer> entry:map.entrySet()){
-            if(entry.getValue()==max){
-                sum=sum+entry.getValue();
+        for(int i=0;i<freq.length;i++){
+            if(freq[i]==max){
+                sum=sum+((char)freq[i]);
             }
         }
-        System.out.println(sum);
+
+        
         return sum;
     }
 }
