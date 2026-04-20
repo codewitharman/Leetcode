@@ -8,9 +8,7 @@ class Solution {
 
         int max=-1;
         for(int i=0;i<freq.length;i++){
-            if(freq[i]>max){
-                max=freq[i];
-            }
+            max=Math.max(max,freq[i]);
         }
 
         int sum=0;
