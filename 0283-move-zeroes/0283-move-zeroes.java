@@ -9,8 +9,7 @@ class Solution {
             }
         }
 
-        for (int i = 0; i < nums.length; i++)
-            nums[i] = result[i];
+        System.arraycopy(result, 0, nums, 0, result.length);
 
     }
 
