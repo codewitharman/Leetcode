@@ -7,22 +7,21 @@ class Solution {
         Map<Character, Character> map2 = new HashMap<>();
 
         for (int i = 0; i < s.length(); i++) {
-            char charS = s.charAt(i);
-            char charT = t.charAt(i);
-            if (map1.containsKey(charS)) {
-                if (map1.get(charS) != charT) {
+            char c1 = s.charAt(i);
+            char c2 = t.charAt(i);
+
+            if (map1.containsKey(c1)) {
+                if (map1.get(c1) != c2)
                     return false;
-                }
             } else {
-                map1.put(charS, charT);
+                map1.put(c1, c2);
             }
 
-            if (map2.containsKey(charT)) {
-                if (map2.get(charT) != charS) {
+            if (map2.containsKey(c2)) {
+                if (map2.get(c2) != c1)
                     return false;
-                }
             } else {
-                map2.put(charT, charS);
+                map2.put(c2, c1);
             }
         }
 
