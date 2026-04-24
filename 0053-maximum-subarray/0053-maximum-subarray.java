@@ -1,14 +1,10 @@
-//Maximum Subarray | Kadane's Algorithm--> Technosage
 class Solution {
     public int maxSubArray(int[] nums) {
-        int sum = 0;
-        int maxSum = nums[0];
-        for (int num : nums) {
-            sum += num;
-            if (sum > maxSum) {
-                maxSum = sum;
-            }
+        int maxSum = Integer.MIN_VALUE, sum = 0;
 
+        for (int i = 0; i < nums.length; i++) {
+            sum = sum + nums[i];
+            maxSum = Math.max(sum, maxSum);
             if (sum < 0) {
                 sum = 0;
             }
