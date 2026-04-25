@@ -1,23 +1,18 @@
-//Moores voting algo-->technodage
 class Solution {
     public int majorityElement(int[] nums) {
-
+        int count = 0;
         int candidate = 0;
-        int point = 0;
-        for (int num : nums) {
-            if (point == 0) {
-                candidate = num;
+        for (int i = 0; i < nums.length; i++) {
+            if (count == 0) {
+                candidate = nums[i];
             }
-
-            if (candidate == num) {
-                point++;
+            if (candidate == nums[i]) {
+                count++;
             } else {
-                point--;
+                count--;
             }
         }
 
         return candidate;
     }
-
 }
-
