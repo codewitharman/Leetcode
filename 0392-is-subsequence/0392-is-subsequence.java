@@ -15,6 +15,9 @@ class Solution {
             }
         }
 
-        return s.length() == i;
+        if (i == s.length())
+            return true;
+        else
+            return false;
     }
 }
