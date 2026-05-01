@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/codewitharman/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/codewitharman/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/codewitharman/Leetcode/tree/master/1587-bank-account-summary-ii) |
+| [1661-average-time-of-process-per-machine](https://github.com/codewitharman/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/codewitharman/Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/codewitharman/Leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/codewitharman/Leetcode/tree/master/1693-daily-leads-and-partners) |
