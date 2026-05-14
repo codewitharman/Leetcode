@@ -1,19 +1,16 @@
 class Solution {
     public int majorityElement(int[] nums) {
+        Map<Integer, Long> map = Arrays.stream(nums).boxed()
+                .collect(Collectors.groupingBy(
+                        Function.identity(),
+                        Collectors.counting()));
 
-        int candidate = 0, count = 0;
-        for (int i = 0; i < nums.length; i++) {
-
-            if (count == 0) {
-                candidate = nums[i];
-            }
-            if (nums[i] == candidate) {
-                count++;
-            } else {
-                count--;
+        for (Map.Entry<Integer, Long> entry : map.entrySet()) {
+            if (entry.getValue() > nums.length / 2) {
+                return entry.getKey();
             }
         }
-
-        return candidate;
+        //System.out.println(map);
+        return 0;
     }
 }
