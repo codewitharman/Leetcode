@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/codewitharman/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0806-number-of-lines-to-write-string](https://github.com/codewitharman/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/codewitharman/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1002-find-common-characters](https://github.com/codewitharman/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/codewitharman/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1539-kth-missing-positive-number](https://github.com/codewitharman/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/codewitharman/Leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codewitharman/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/codewitharman/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/codewitharman/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/codewitharman/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/codewitharman/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codewitharman/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewitharman/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/codewitharman/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/codewitharman/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0917-reverse-only-letters](https://github.com/codewitharman/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1002-find-common-characters](https://github.com/codewitharman/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/codewitharman/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/codewitharman/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1980-find-unique-binary-string](https://github.com/codewitharman/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
