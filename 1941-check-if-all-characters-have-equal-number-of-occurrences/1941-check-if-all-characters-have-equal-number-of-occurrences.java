@@ -1,16 +1,20 @@
 class Solution {
     public boolean areOccurrencesEqual(String s) {
-        Map<Character,Integer> map=new LinkedHashMap<>();
+        int[] freq = new int[26];
+        for (char ch : s.toCharArray()) {
+            freq[ch - 'a']++;
+        }
 
-        for(char ch:s.toCharArray()){
-            map.put(ch,map.getOrDefault(ch,0)+1);
-        }
-        int freq = map.values().iterator().next();
-        for (int val : map.values()) {
-            if (val != freq) {
+        int x = freq[s.charAt(0) - 'a'];
+
+        //System.out.println(x);
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] == 0)
+                continue;
+            if (freq[i] != x)
                 return false;
-            }
         }
+
         return true;
     }
 }
