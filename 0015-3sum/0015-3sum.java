@@ -1,34 +1,48 @@
+import java.util.AbstractList;
+
 class Solution {
+    private List<List<Integer>> res;
+
     public List<List<Integer>> threeSum(int[] nums) {
-        Arrays.sort(nums);
-        List<List<Integer>> result = new ArrayList<>();
-        for (int i = 0; i < nums.length - 2; i++) {
-            if (i > 0 && nums[i] == nums[i - 1]) {
-                continue;
+        int target = 0;
+        return new AbstractList<List<Integer>>() {
+            public List<Integer> get(int index) {
+                init();
+                return res.get(index);
             }
-            int j = i + 1;
-            int k = nums.length - 1;
-            while (j < k) {
-                int sum = nums[i] + nums[j] + nums[k];
-                if (sum < 0) {
-                    j++;
-                } else if (sum > 0) {
-                    k--;
-                } else {
-                    result.add(Arrays.asList(nums[i], nums[j], nums[k]));
-                    while (j < k && nums[j] == nums[j + 1]) {
-                        j++;
+
+            public int size() {
+                init();
+                return res.size();
+            }
+
+            private void init() {
+                if (res != null)
+                    return;
+                Arrays.sort(nums);
+                int l, r;
+                int sum;
+                Set<List<Integer>> tempRes = new HashSet<>();
+                for (int i = 0; i < nums.length - 2; ++i) {
+                    l = i + 1;
+                    r = nums.length - 1;
+                    while (l < r) {
+                        sum = nums[i] + nums[l] + nums[r];
+                        if (sum == target) {
+                            List<Integer> t = new ArrayList<>();
+                            t.add(nums[i]);
+                            t.add(nums[l]);
+                            t.add(nums[r]);
+                            tempRes.add(t);
+                        }
+                        if (sum < target)
+                            ++l;
+                        else
+                            --r;
                     }
-                    while (j < k && nums[k] == nums[k - 1]) {
-                        k--;
-                    }
-                    j++;
-                    k--;
                 }
+                res = new ArrayList<List<Integer>>(tempRes);
             }
-
-        }
-
-        return result;
+        };
     }
 }
