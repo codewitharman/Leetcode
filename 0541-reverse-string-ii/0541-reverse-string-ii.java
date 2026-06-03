@@ -1,20 +1,23 @@
 class Solution {
     public String reverseStr(String s, int k) {
-        int step = k * 2;
         char[] arr = s.toCharArray();
-        for (int i = 0; i < arr.length; i = i + step) {
-            int start = i;
-            int end = Math.min(i + k - 1, arr.length - 1);
-            while (start < end) {
-                char temp = arr[start];
-                arr[start] = arr[end];
-                arr[end] = temp;
-                start++;
-                end--;
-            }
-
+        int n = arr.length;
+        int i = 0;
+        while (i < n) {
+            int j = Math.min(i + k - 1, n - 1);
+            reverse(arr, i, j);
+            i = i + 2 * k;
         }
-
         return new String(arr);
+    }
+
+    public void reverse(char[] arr, int i, int j) {
+        while (i < j) {
+            char temp = arr[i];
+            arr[i] = arr[j];
+            arr[j] = temp;   
+            i++;
+            j--;             
+        }
     }
 }
