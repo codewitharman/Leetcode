@@ -3,7 +3,7 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
-            int ascii = (int) ch;
+            int ascii = ch;
             if (ascii >= 65 && ascii <= 90) {
                 ascii = ascii + 32;
                 ch = (char) ascii;
