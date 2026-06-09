@@ -4,12 +4,7 @@ class Solution {
         for (char ch : sentence.toCharArray()) {
             set.add(ch);
         }
-        boolean flag = false;
-        if (set.size() == 26) {
-            flag = true;
-        } else {
-            flag = false;
-        }
-        return flag;
+
+        return set.size() == 26;
     }
 }
