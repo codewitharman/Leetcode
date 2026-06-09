@@ -6,8 +6,8 @@ class Solution {
             freq[ch - 'a']++;
         }
 
-        for (int i = 0; i < freq.length; i++) {
-            if (freq[i] == 0) {
+        for (char ch : freq) {
+            if (ch == 0) {
                 return false;
             }
         }
