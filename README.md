@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/codewitharman/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0867-transpose-matrix](https://github.com/codewitharman/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/codewitharman/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0929-unique-email-addresses](https://github.com/codewitharman/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1002-find-common-characters](https://github.com/codewitharman/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1051-height-checker](https://github.com/codewitharman/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/codewitharman/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/codewitharman/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/codewitharman/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0771-jewels-and-stones](https://github.com/codewitharman/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0929-unique-email-addresses](https://github.com/codewitharman/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1002-find-common-characters](https://github.com/codewitharman/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/codewitharman/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codewitharman/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/codewitharman/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0824-goat-latin](https://github.com/codewitharman/Leetcode/tree/main/0824-goat-latin/) | Easy |
 | [0917-reverse-only-letters](https://github.com/codewitharman/Leetcode/tree/master/0917-reverse-only-letters) |
+| [0929-unique-email-addresses](https://github.com/codewitharman/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1002-find-common-characters](https://github.com/codewitharman/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/codewitharman/Leetcode/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/codewitharman/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
