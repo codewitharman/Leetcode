@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/codewitharman/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/codewitharman/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0771-jewels-and-stones](https://github.com/codewitharman/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0859-buddy-strings](https://github.com/codewitharman/Leetcode/tree/main/0859-buddy-strings/) | Easy |
 | [0929-unique-email-addresses](https://github.com/codewitharman/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1002-find-common-characters](https://github.com/codewitharman/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/codewitharman/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/codewitharman/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/codewitharman/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0824-goat-latin](https://github.com/codewitharman/Leetcode/tree/main/0824-goat-latin/) | Easy |
+| [0859-buddy-strings](https://github.com/codewitharman/Leetcode/tree/main/0859-buddy-strings/) | Easy |
 | [0917-reverse-only-letters](https://github.com/codewitharman/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/codewitharman/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1002-find-common-characters](https://github.com/codewitharman/Leetcode/tree/main/1002-find-common-characters/) | Easy |
