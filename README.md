@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/codewitharman/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/codewitharman/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/codewitharman/Leetcode/tree/main/0415-add-strings/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/codewitharman/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/codewitharman/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/codewitharman/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Array
