@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/codewitharman/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/codewitharman/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/codewitharman/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1768-merge-strings-alternately](https://github.com/codewitharman/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/codewitharman/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codewitharman/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/codewitharman/Leetcode/tree/master/2540-minimum-common-value) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/codewitharman/Leetcode/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
 | [1629-slowest-key](https://github.com/codewitharman/Leetcode/tree/main/1629-slowest-key/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/codewitharman/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/codewitharman/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/codewitharman/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/codewitharman/Leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codewitharman/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
