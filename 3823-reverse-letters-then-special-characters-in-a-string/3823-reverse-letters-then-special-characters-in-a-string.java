@@ -1,40 +1,27 @@
 class Solution {
     public String reverseByType(String s) {
-        char[] arr = new char[s.length()];
+        Stack<Character> st1 = new Stack<>();
+        Stack<Character> st2 = new Stack<>();
+
+        for (char ch : s.toCharArray()) {
+            if (ch >= 'a' && ch <= 'z') {
+                st1.push(ch);
+            } else {
+                st2.push(ch);
+            }
+        }
+
+        String ans = "";
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
             if (ch >= 'a' && ch <= 'z') {
-                arr[i] = ch;
+                ans = ans + st1.pop();
             } else {
-                arr[i] = '\u0000';
-            }
-        }
-        System.out.println(Arrays.toString(arr));
-
-        String str = s.replaceAll("[a-z]", "");
-        int index = str.length() - 1;
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] == '\u0000') {
-                arr[i] = str.charAt(index);
-                index--;
+                ans = ans + st2.pop();
             }
         }
 
-        int start = 0;
-        int end = arr.length - 1;
-        while (start < end) {
-            while (start < end && !(arr[start] >= 'a' && arr[start] <= 'z'))
-                start++;
-            while (start < end && !(arr[end] >= 'a' && arr[end] <= 'z'))
-                end--;
+        return ans;
 
-            char temp = arr[start];
-            arr[start] = arr[end];
-            arr[end] = temp;
-            start++;
-            end--;
-        }
-
-        return String.valueOf(arr);
     }
 }
