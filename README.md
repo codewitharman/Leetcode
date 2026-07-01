@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/codewitharman/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codewitharman/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/codewitharman/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/codewitharman/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/codewitharman/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/codewitharman/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/codewitharman/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/codewitharman/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/codewitharman/Leetcode/tree/main/0415-add-strings/) | Easy |
+| [0495-teemo-attacking](https://github.com/codewitharman/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0867-transpose-matrix](https://github.com/codewitharman/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codewitharman/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/codewitharman/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
