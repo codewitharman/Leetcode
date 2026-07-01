@@ -1,18 +1,16 @@
 class Solution {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
-        List<Character> list1 = new ArrayList<>();
-        List<Character> list2 = new ArrayList<>();
+        StringBuilder sb1 = new StringBuilder();
+        StringBuilder sb2 = new StringBuilder();
+
         for (String str : word1) {
-            for (char ch : str.toCharArray()) {
-                list1.add(ch);
-            }
-        }
-        for (String str : word2) {
-            for (char ch : str.toCharArray()) {
-                list2.add(ch);
-            }
+            sb1.append(str);
         }
 
-        return list1.equals(list2);
+        for (String str : word2) {
+            sb2.append(str);
+        }
+
+        return sb1.toString().equals(sb2.toString());
     }
 }
