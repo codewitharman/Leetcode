@@ -1,18 +1,15 @@
 class Solution {
     public String reverseByType(String s) {
-        Stack<Character> st1 = new Stack<>();
-        Stack<Character> st2 = new Stack<>();
+        Stack<Character> lower = new Stack<>(), other = new Stack<>();
 
-        for (char ch : s.toCharArray()) {
-            ((ch >= 'a' && ch <= 'z') ? st1 : st2).push(ch);
-        }
+        for (char ch : s.toCharArray())
+            (Character.isLowerCase(ch) ? lower : other).push(ch);
 
-        String ans = "";
-         for (char ch : s.toCharArray()) {
-            ans = ans + ((ch >= 'a' && ch <= 'z') ? st1.pop() : st2.pop());
-        }
+        StringBuilder ans = new StringBuilder();
 
-        return ans;
+        for (char ch : s.toCharArray())
+            ans.append((Character.isLowerCase(ch) ? lower : other).pop());
 
+        return ans.toString();
     }
 }
