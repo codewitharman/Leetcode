@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/codewitharman/Leetcode/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
 | [1629-slowest-key](https://github.com/codewitharman/Leetcode/tree/main/1629-slowest-key/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/codewitharman/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1678-goal-parser-interpretation](https://github.com/codewitharman/Leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/codewitharman/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/codewitharman/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/codewitharman/Leetcode/tree/main/1816-truncate-sentence/) | Easy |
