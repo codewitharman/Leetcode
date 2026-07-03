@@ -5,13 +5,13 @@ class Solution {
             char ch = str.charAt(i);
             if (ch >= 'a' && ch <= 'z') {
                 sb.append(ch);
-                System.out.print(ch);
+                //System.out.print(ch);
             } else { //2
-                char prev = str.charAt(i - 1);
-                char curr = str.charAt(i); //1
+                //char prev = ;
+                //char curr = str.charAt(i); //1
 
-                int ascii = (int) prev;
-                int nextAscii = Character.getNumericValue(curr);
+                int ascii = (int) str.charAt(i - 1);
+                int nextAscii = Character.getNumericValue(ch);
                 int finalValue = ascii + nextAscii;
                 //System.out.print((char)finalValue);
                 sb.append((char) finalValue);
