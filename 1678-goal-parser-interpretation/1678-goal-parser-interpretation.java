@@ -10,9 +10,7 @@ class Solution {
                 i++;
             } else if (command.startsWith("(al)", i)) {
                 sb.append("al");
-                i++;
-                i++;
-                i++;
+                i=i+3;
             }
         }
 
