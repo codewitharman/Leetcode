@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/codewitharman/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/codewitharman/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/codewitharman/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/codewitharman/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/codewitharman/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/codewitharman/Leetcode/tree/main/1528-shuffle-string/) | Easy |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codewitharman/Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1002-find-common-characters](https://github.com/codewitharman/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/codewitharman/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/codewitharman/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/codewitharman/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codewitharman/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/codewitharman/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/codewitharman/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/codewitharman/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/codewitharman/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/codewitharman/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/codewitharman/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
