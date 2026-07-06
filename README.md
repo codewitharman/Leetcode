@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/codewitharman/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/codewitharman/Leetcode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/codewitharman/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2325-decode-the-message](https://github.com/codewitharman/Leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2540-minimum-common-value](https://github.com/codewitharman/Leetcode/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/codewitharman/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/codewitharman/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/codewitharman/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/codewitharman/Leetcode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
+| [2325-decode-the-message](https://github.com/codewitharman/Leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/codewitharman/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/codewitharman/Leetcode/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/codewitharman/Leetcode/tree/master/3794-reverse-string-prefix) |
