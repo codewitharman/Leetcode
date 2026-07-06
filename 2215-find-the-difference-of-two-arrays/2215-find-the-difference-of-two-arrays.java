@@ -25,10 +25,10 @@ class Solution {
             }
         }
 
-        List<List<Integer>> ans = new ArrayList<>();
-        ans.add(list1);
-        ans.add(list2);
+        // List<List<Integer>> ans = new ArrayList<>();
+        // ans.add(list1);
+        // ans.add(list2);
 
-        return ans;
+        return List.of(list1,list2);
     }
 }
