@@ -1,40 +1,29 @@
 class Solution {
     public String decodeMessage(String key, String message) {
-        key = key.replace(" ", "");
-        Set<Character> set = new LinkedHashSet<>();
-        for (char ch : key.toCharArray()) {
-            set.add(ch);
-        }
-        char[] arr = new char[set.size()];
-        int index = 0;
-        for (char ch : set) {
-            arr[index++] = ch;
+        char[] arr1 = key.toCharArray();
+        Map<Character, Character> map = new LinkedHashMap<>();
+        char next = 'a';
+
+        for (int i = 0; i < arr1.length; i++) {
+            char k = arr1[i];
+            if (k == ' ' || map.containsKey(k)) {
+                continue;
+            }
+            map.put(k, next);
+            next++;
         }
 
-        char[] words = new char[26];
-        char ch = 'a';
-        for (int i = 0; i < words.length; i++) {
-            words[i] = ch;
-            ch++;
-        }
-
+        char[] arr2 = message.toCharArray();
         StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < message.length(); i++) {
-            char m = message.charAt(i);
+
+        for (int i = 0; i < arr2.length; i++) {
+            char m = arr2[i];
             if (m == ' ') {
                 sb.append(' ');
             } else {
-                for (int j = 0; j < arr.length; j++) {
-                    if (arr[j] == m) {
-                        sb.append(words[j]);
-                        break;
-                    }
-                }
+                sb.append(map.get(m));
             }
         }
-        //System.out.println(Arrays.toString(arr));
-        //System.out.print(Arrays.toString(words));
         return sb.toString();
-
     }
 }
