@@ -1,18 +1,13 @@
 class Solution {
     public String destCity(List<List<String>> paths) {
-        for (List<String> innerList : paths) {
-            String destination = innerList.get(1);
-            boolean isStartingCity = false;
+        HashSet<String> set = new HashSet<>();
+        for (List<String> path : paths) {
+            set.add(path.get(0));
+        }
 
-            for (List<String> path : paths) {
-                if (path.get(0).equals(destination)) {
-                    isStartingCity = true;
-                    break;
-                }
-            }
-
-            if (!isStartingCity) {
-                return destination;
+        for (List<String> path : paths) {
+            if (!set.contains(path.get(1))) {
+                return path.get(1);
             }
         }
 
