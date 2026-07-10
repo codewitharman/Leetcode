@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/codewitharman/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/codewitharman/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2469-convert-the-temperature](https://github.com/codewitharman/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
+| [3099-harshad-number](https://github.com/codewitharman/Leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
