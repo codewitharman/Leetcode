@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/codewitharman/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/codewitharman/Leetcode/tree/main/1436-destination-city/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/codewitharman/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/codewitharman/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/codewitharman/Leetcode/tree/main/1528-shuffle-string/) | Easy |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/codewitharman/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/codewitharman/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1051-height-checker](https://github.com/codewitharman/Leetcode/tree/main/1051-height-checker/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/codewitharman/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codewitharman/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2418-sort-the-people](https://github.com/codewitharman/Leetcode/tree/main/2418-sort-the-people/) | Easy |
@@ -488,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/codewitharman/Leetcode/tree/main/1114-print-in-order/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
