@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/codewitharman/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/codewitharman/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2652-sum-multiples](https://github.com/codewitharman/Leetcode/tree/main/2652-sum-multiples/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/codewitharman/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3099-harshad-number](https://github.com/codewitharman/Leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
