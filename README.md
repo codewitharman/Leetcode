@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/codewitharman/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/codewitharman/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/codewitharman/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/codewitharman/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/codewitharman/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2427-number-of-common-factors](https://github.com/codewitharman/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/codewitharman/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
