@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/codewitharman/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/codewitharman/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/codewitharman/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1313-decompress-run-length-encoded-list](https://github.com/codewitharman/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/codewitharman/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/codewitharman/Leetcode/tree/main/1436-destination-city/) | Easy |
