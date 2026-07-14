@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/codewitharman/Leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/codewitharman/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1980-find-unique-binary-string](https://github.com/codewitharman/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/codewitharman/Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2032-two-out-of-three](https://github.com/codewitharman/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codewitharman/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codewitharman/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/codewitharman/Leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/codewitharman/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewitharman/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/codewitharman/Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2032-two-out-of-three](https://github.com/codewitharman/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/codewitharman/Leetcode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/codewitharman/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/codewitharman/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/codewitharman/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/codewitharman/Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/codewitharman/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
