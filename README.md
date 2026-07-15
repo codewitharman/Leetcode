@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/codewitharman/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/codewitharman/Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2032-two-out-of-three](https://github.com/codewitharman/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codewitharman/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codewitharman/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/codewitharman/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/codewitharman/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/codewitharman/Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2032-two-out-of-three](https://github.com/codewitharman/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/codewitharman/Leetcode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/codewitharman/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2325-decode-the-message](https://github.com/codewitharman/Leetcode/tree/main/2325-decode-the-message/) | Easy |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/codewitharman/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/codewitharman/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/codewitharman/Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/codewitharman/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/codewitharman/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewitharman/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/codewitharman/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/codewitharman/Leetcode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2325-decode-the-message](https://github.com/codewitharman/Leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2418-sort-the-people](https://github.com/codewitharman/Leetcode/tree/main/2418-sort-the-people/) | Easy |
