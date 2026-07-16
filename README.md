@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/codewitharman/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/codewitharman/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/codewitharman/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/codewitharman/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/codewitharman/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/codewitharman/Leetcode/tree/master/3174-clear-digits) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/codewitharman/Leetcode/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/codewitharman/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
