@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/codewitharman/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1629-slowest-key](https://github.com/codewitharman/Leetcode/tree/main/1629-slowest-key/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/codewitharman/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/codewitharman/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/codewitharman/Leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/codewitharman/Leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/codewitharman/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/codewitharman/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/codewitharman/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/codewitharman/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/codewitharman/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codewitharman/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/codewitharman/Leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/codewitharman/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/codewitharman/Leetcode/tree/master/0342-power-of-four) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/codewitharman/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/codewitharman/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2032-two-out-of-three](https://github.com/codewitharman/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/codewitharman/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/codewitharman/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/codewitharman/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/codewitharman/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/codewitharman/Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1629-slowest-key](https://github.com/codewitharman/Leetcode/tree/main/1629-slowest-key/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/codewitharman/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/codewitharman/Leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/codewitharman/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/codewitharman/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/codewitharman/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/codewitharman/Leetcode/tree/main/1816-truncate-sentence/) | Easy |
