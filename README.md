@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/codewitharman/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1970-last-day-where-you-can-still-cross](https://github.com/codewitharman/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Greedy
 | Problem Name | Difficulty |
