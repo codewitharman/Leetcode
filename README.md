@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/codewitharman/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/codewitharman/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/codewitharman/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/codewitharman/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/codewitharman/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/codewitharman/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/codewitharman/Leetcode/tree/master/0268-missing-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/codewitharman/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/codewitharman/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/codewitharman/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/codewitharman/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/codewitharman/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codewitharman/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/codewitharman/Leetcode/tree/master/0283-move-zeroes) |
@@ -548,10 +550,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/codewitharman/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [2427-number-of-common-factors](https://github.com/codewitharman/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/codewitharman/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [2427-number-of-common-factors](https://github.com/codewitharman/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
