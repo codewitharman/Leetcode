@@ -8,8 +8,8 @@ class Solution {
             temp[i] = candies[i] + extraCandies;
         }
 
-        for (int candy : temp) {
-            if (candy >= max)
+        for (int i = 0; i < temp.length; i++) {
+            if (temp[i] >= max)
                 list.add(true);
             else
                 list.add(false);
