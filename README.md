@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/codewitharman/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/codewitharman/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/codewitharman/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/codewitharman/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/codewitharman/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/codewitharman/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/codewitharman/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/codewitharman/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/codewitharman/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/codewitharman/Leetcode/tree/master/0342-power-of-four) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/codewitharman/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/codewitharman/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/codewitharman/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2032-two-out-of-three](https://github.com/codewitharman/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
