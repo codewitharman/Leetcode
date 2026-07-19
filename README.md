@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/codewitharman/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/codewitharman/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/codewitharman/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codewitharman/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/codewitharman/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/codewitharman/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/codewitharman/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/codewitharman/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/codewitharman/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codewitharman/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/codewitharman/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/codewitharman/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codewitharman/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/codewitharman/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/codewitharman/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/codewitharman/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codewitharman/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1970-last-day-where-you-can-still-cross](https://github.com/codewitharman/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Recursion
 | Problem Name | Difficulty |
