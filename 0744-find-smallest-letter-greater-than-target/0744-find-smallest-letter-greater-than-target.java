@@ -1,19 +1,18 @@
 class Solution {
     public char nextGreatestLetter(char[] letters, char target) {
-        if (target == 'z')
-            return letters[0];
+        //using binary serach 
+        int start=0;
+        int end = letters.length-1;
+        while(start<=end){
+            int mid= start+(end-start)/2;
+            if(target<letters[mid]){
+                end=mid-1;
+            } else{
+                start= mid+1;
+            }
 
-        for (int i = 0; i < letters.length - 1; i++) {
-            char ch = letters[i]; //c
-            char next = letters[i + 1];
-            if (target < ch && target < next) {
-                return ch;
-            }
-            if (target >= ch && target < next) { //c>=c true && c<=f
-                return next;
-            }
         }
-
-        return letters[0];
+    return letters[start % letters.length];
+        
     }
 }
