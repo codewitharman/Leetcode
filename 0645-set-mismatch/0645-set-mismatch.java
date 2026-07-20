@@ -5,7 +5,11 @@ class Solution {
         int n = nums.length;
         Map<Integer, Integer> map = new HashMap<>();
         for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+            if (map.containsKey(num)) {
+                map.put(num, map.get(num) + 1);
+            } else {
+                map.put(num, 1);
+            }
         }
 
         int duplicate = -1, missing = -1;
