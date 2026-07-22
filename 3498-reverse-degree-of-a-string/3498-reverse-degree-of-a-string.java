@@ -11,7 +11,6 @@ class Solution {
 
         while (index < s.length()) {
             char c = s.charAt(index);
-            System.out.println(c);
             if (map.containsKey(c)) {
                 sum = sum + (map.get(c) * i);
             }
