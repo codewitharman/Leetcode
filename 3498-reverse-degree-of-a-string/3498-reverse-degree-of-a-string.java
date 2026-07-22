@@ -7,15 +7,13 @@ class Solution {
         }
         int index = 0;
         int sum = 0;
-        int i = 1;
+        int i = 0;
 
         while (index < s.length()) {
-            char c = s.charAt(index);
+            char c = s.charAt(index++);
             if (map.containsKey(c)) {
-                sum = sum + (map.get(c) * i);
+                sum = sum + (map.get(c) * ++i);
             }
-            i++;
-            index++;
         }
 
         return sum;
