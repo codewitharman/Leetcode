@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/codewitharman/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/codewitharman/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/codewitharman/Leetcode/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/codewitharman/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/codewitharman/Leetcode/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/codewitharman/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Union Find
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/codewitharman/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/codewitharman/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3174-clear-digits](https://github.com/codewitharman/Leetcode/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/codewitharman/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/codewitharman/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/codewitharman/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/codewitharman/Leetcode/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
