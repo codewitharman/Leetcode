@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/codewitharman/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codewitharman/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/codewitharman/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codewitharman/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/codewitharman/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/codewitharman/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/codewitharman/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/codewitharman/Leetcode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/codewitharman/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2325-decode-the-message](https://github.com/codewitharman/Leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2418-sort-the-people](https://github.com/codewitharman/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/codewitharman/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
