@@ -10,8 +10,7 @@ class Solution {
         int index = 0;
         for (int num : freq) {
             if (num == 1) {
-                char ch = (char) (index + 'a');
-                return ch;
+                return (char) (index + 'a');
             }
             index++;
         }
