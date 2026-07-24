@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/codewitharman/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/codewitharman/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/codewitharman/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/codewitharman/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/codewitharman/Leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codewitharman/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/codewitharman/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/codewitharman/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/codewitharman/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/codewitharman/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/codewitharman/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/codewitharman/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/codewitharman/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/codewitharman/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/codewitharman/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codewitharman/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codewitharman/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/codewitharman/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/codewitharman/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/codewitharman/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/codewitharman/Leetcode/tree/main/0561-array-partition/) | Easy |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/codewitharman/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/codewitharman/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/codewitharman/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/codewitharman/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/codewitharman/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/codewitharman/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/codewitharman/Leetcode/tree/master/0412-fizz-buzz) |
