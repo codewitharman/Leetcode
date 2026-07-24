@@ -1,18 +1,19 @@
 class Solution {
     public char findTheDifference(String s, String t) {
         int[] freq = new int[26];
-        for (int i = 0; i < t.length(); i++) {
-            freq[t.charAt(i) - 'a']++;
-        }
+        for (char ch : t.toCharArray())
+            freq[ch - 'a']++;
 
-        for (int i = 0; i < s.length(); i++) {
-            freq[s.charAt(i) - 'a']--;
-        }
-        for (int i = 0; i < freq.length; i++) {
-            if (freq[i] == 1) {
-                char ch = (char) (i + 'a');
+        for (char ch : s.toCharArray())
+            freq[ch - 'a']--;
+
+        int index = 0;
+        for (int num : freq) {
+            if (num == 1) {
+                char ch = (char) (index + 'a');
                 return ch;
             }
+            index++;
         }
         return ' ';
     }
