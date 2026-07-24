@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/codewitharman/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/codewitharman/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/codewitharman/Leetcode/tree/main/0561-array-partition/) | Easy |
+| [0575-distribute-candies](https://github.com/codewitharman/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/codewitharman/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/codewitharman/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/codewitharman/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codewitharman/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/codewitharman/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/codewitharman/Leetcode/tree/main/0500-keyboard-row/) | Easy |
+| [0575-distribute-candies](https://github.com/codewitharman/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/codewitharman/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/codewitharman/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/codewitharman/Leetcode/tree/main/0859-buddy-strings/) | Easy |
