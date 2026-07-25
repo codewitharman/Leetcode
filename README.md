@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/codewitharman/Leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0929-unique-email-addresses](https://github.com/codewitharman/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codewitharman/Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/codewitharman/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1002-find-common-characters](https://github.com/codewitharman/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1051-height-checker](https://github.com/codewitharman/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/codewitharman/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/codewitharman/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/codewitharman/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/codewitharman/Leetcode/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/codewitharman/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/codewitharman/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/codewitharman/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/codewitharman/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/codewitharman/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/codewitharman/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/codewitharman/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/codewitharman/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/codewitharman/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/codewitharman/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/codewitharman/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
