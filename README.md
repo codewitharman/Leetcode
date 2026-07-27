@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/codewitharman/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/codewitharman/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3894-traffic-signal-color](https://github.com/codewitharman/Leetcode/tree/main/3894-traffic-signal-color/) | Easy |
+| [3945-digit-frequency-score](https://github.com/codewitharman/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/codewitharman/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/codewitharman/Leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/codewitharman/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3945-digit-frequency-score](https://github.com/codewitharman/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
