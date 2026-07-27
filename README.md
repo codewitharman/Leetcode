@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/codewitharman/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3099-harshad-number](https://github.com/codewitharman/Leetcode/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/codewitharman/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3894-traffic-signal-color](https://github.com/codewitharman/Leetcode/tree/main/3894-traffic-signal-color/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/codewitharman/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/codewitharman/Leetcode/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/codewitharman/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3894-traffic-signal-color](https://github.com/codewitharman/Leetcode/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/codewitharman/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Union Find
 | Problem Name | Difficulty |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/codewitharman/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/codewitharman/Leetcode/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/codewitharman/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3894-traffic-signal-color](https://github.com/codewitharman/Leetcode/tree/main/3894-traffic-signal-color/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
