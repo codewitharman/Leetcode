@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/codewitharman/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/codewitharman/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/codewitharman/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2315-count-asterisks](https://github.com/codewitharman/Leetcode/tree/main/2315-count-asterisks/) | Easy |
 | [2325-decode-the-message](https://github.com/codewitharman/Leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2418-sort-the-people](https://github.com/codewitharman/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/codewitharman/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
