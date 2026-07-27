@@ -1,14 +1,16 @@
 class Solution {
     public int digitFrequencyScore(int n) {
         String str = String.valueOf(n);
-        Map<Integer, Integer> map = new HashMap<>();
-        for (char ch : str.toCharArray()) {
-            int num = (int) ch - '0';
-            map.put(num, map.getOrDefault(num, 0) + 1);
+        int[] freq = new int[10];
+        for (int i = 0; i < str.length(); i++) {
+            int num = (int) str.charAt(i) - '0';
+            freq[num]++;
         }
-        int sum = 0;
-        for (Map.Entry<Integer, Integer> e : map.entrySet()) 
-            sum = sum + e.getKey() * e.getValue();
+        int sum=0;
+        for (int i = 0; i < freq.length; i++) 
+            if (freq[i] > 0) 
+                sum = sum + freq[i] * i;
+            
         
         return sum;
     }
