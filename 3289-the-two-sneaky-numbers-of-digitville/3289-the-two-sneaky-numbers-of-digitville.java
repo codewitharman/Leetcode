@@ -1,18 +1,15 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
 
-        int[] freq = new int[100];
-        for (int num : nums) {
-            freq[num]++;
-        }
-        //System.out.println(Arrays.toString(freq));
-        int index = 0;
+        Arrays.sort(nums);
         int result[] = new int[2];
-        for (int i = 0; i < freq.length; i++) {
-            if (freq[i] == 2) {
-                result[index++] = i;
+        int index = 0;
+        for (int i = 0; i < nums.length - 1; i++) {
+            if (nums[i] == nums[i + 1]) {
+                result[index++] = nums[i];
             }
         }
+
         return result;
 
     }
