@@ -1,16 +1,16 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
 
-        Map<Integer, Integer> map = new TreeMap<>();
-
+        int[] freq = new int[100];
         for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+            freq[num]++;
         }
-        int result[] = new int[2];
+        //System.out.println(Arrays.toString(freq));
         int index = 0;
-        for (Map.Entry<Integer, Integer> e : map.entrySet()) {
-            if (e.getValue() == 2) {
-                result[index++] = e.getKey();
+        int result[] = new int[2];
+        for (int i = 0; i < freq.length; i++) {
+            if (freq[i] == 2) {
+                result[index++] = i;
             }
         }
         return result;
