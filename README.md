@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/codewitharman/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/codewitharman/Leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3174-clear-digits](https://github.com/codewitharman/Leetcode/tree/master/3174-clear-digits) |
+| [3340-check-balanced-string](https://github.com/codewitharman/Leetcode/tree/main/3340-check-balanced-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/codewitharman/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/codewitharman/Leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/codewitharman/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
