@@ -1,13 +1,13 @@
 class Solution {
     public int alternatingSum(int[] nums) {
-        int sum = 0;
-        for (int i = 0; i < nums.length; i++) {
-            if (i % 2 == 0)
-                sum +=nums[i];
-            else
-                sum -= nums[i];
+        int addSum=0;
+        for(int i=0;i<nums.length;i+=2){
+            addSum+=nums[i];
         }
-
-        return sum;
+        int subSum=0;
+        for(int i=1;i<nums.length;i+=2){
+            subSum+=nums[i];
+        }
+        return addSum-subSum;
     }
 }
