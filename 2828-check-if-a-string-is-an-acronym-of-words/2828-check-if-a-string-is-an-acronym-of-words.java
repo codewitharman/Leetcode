@@ -1,18 +1,13 @@
 class Solution {
     public boolean isAcronym(List<String> words, String s) {
-        if(words.size()!=s.length()) return false;
-        StringBuilder sb=new StringBuilder();
-        for(int i=0;i<words.size();i++){
-            String word=words.get(i);
-            for(int j=0;j<word.length();j++){
-                sb=sb.append(word.charAt(0));
-                break;
-            }
-            //System.out.println(word);
-        }
-            //System.out.println(sb);
 
+        if (words.size() != s.length())
+            return false;
 
-        return s.equals(sb.toString());
+        for (int i = 0; i < words.size(); i++)
+            if (words.get(i).charAt(0) != s.charAt(i))
+                return false;
+
+        return true;
     }
 }
