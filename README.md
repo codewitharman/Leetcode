@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/codewitharman/Leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2418-sort-the-people](https://github.com/codewitharman/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/codewitharman/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/codewitharman/Leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/codewitharman/Leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/codewitharman/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/codewitharman/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
