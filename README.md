@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/codewitharman/Leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/codewitharman/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/codewitharman/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/codewitharman/Leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/codewitharman/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/codewitharman/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codewitharman/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/codewitharman/Leetcode/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/codewitharman/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/codewitharman/Leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/codewitharman/Leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codewitharman/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/codewitharman/Leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/codewitharman/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
