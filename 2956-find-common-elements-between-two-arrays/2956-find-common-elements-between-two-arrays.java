@@ -1,34 +1,26 @@
 class Solution {
     public int[] findIntersectionValues(int[] nums1, int[] nums2) {
-        HashSet<Integer> set = new HashSet<>();
-        HashSet<Integer> common = new HashSet<>();
-        for (int num : nums1) {
-            set.add(num);
-        }
+        Set<Integer> set1 = new HashSet<>();
+        Set<Integer> set2 = new HashSet<>();
+        for (int num : nums1) 
+            set1.add(num);
+        
 
-        for (int num : nums2) {
-            if (set.contains(num))
-                common.add(num);
-
-        }
-
-        int freq1[] = new int[101];
-        int freq2[] = new int[101];
-        for (int num : nums1) {
-            freq1[num]++;
-        }
-        for (int num : nums2) {
-            freq2[num]++;
-        }
-
+        for (int num : nums2) 
+            set2.add(num);
+        
         int sum1 = 0, sum2 = 0;
-
-        for (int num : common) {
-            sum1 += freq1[num];
-            sum2 += freq2[num];
+        for (int num : nums1) {
+            if (set2.contains(num)) {
+                sum1++;
+            }
         }
 
-        return new int[] { sum1, sum2 };
-
+        for (int num : nums2) {
+            if (set1.contains(num)) {
+                sum2++;
+            }
+        }
+        return new int [] {sum1,sum2};
     }
 }
