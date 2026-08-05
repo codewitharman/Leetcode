@@ -1,5 +1,6 @@
 class Solution {
     public int[] getConcatenation(int[] nums) {
-        return IntStream.concat(IntStream.of(nums), IntStream.of(nums)).toArray();
+        int n=nums.length;
+        return IntStream.range(0,2*n).map(i->nums[i%n]).toArray();
     }
 }
