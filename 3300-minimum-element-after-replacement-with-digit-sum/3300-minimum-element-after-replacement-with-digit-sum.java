@@ -1,6 +1,5 @@
 class Solution {
     public int minElement(int[] nums) {
-        int temp[] = new int[nums.length];
         int index = 0;
         for (int num : nums) {
             int sum = 0;
@@ -9,13 +8,12 @@ class Solution {
                 sum += digit;
                 num = num / 10;
             }
-            temp[index++] = sum;
+            nums[index++] = sum;
         }
         int min = Integer.MAX_VALUE;
-        for (int num : temp) 
+        for (int num : nums) 
             min = Math.min(min, num);
         
         return min;
-
     }
 }
