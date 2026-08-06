@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/codewitharman/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/codewitharman/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/codewitharman/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/codewitharman/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/codewitharman/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/codewitharman/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0867-transpose-matrix](https://github.com/codewitharman/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/codewitharman/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/codewitharman/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/codewitharman/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/codewitharman/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0859-buddy-strings](https://github.com/codewitharman/Leetcode/tree/main/0859-buddy-strings/) | Easy |
 | [0929-unique-email-addresses](https://github.com/codewitharman/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codewitharman/Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/codewitharman/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/codewitharman/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/codewitharman/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/codewitharman/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/codewitharman/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/codewitharman/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0824-goat-latin](https://github.com/codewitharman/Leetcode/tree/main/0824-goat-latin/) | Easy |
