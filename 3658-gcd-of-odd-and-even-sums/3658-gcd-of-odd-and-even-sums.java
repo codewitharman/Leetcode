@@ -9,12 +9,12 @@ class Solution {
             }
         }
         int gcd = 0;
-        for (int i = 1; i <= evenSum && i <= oddSum; i++) {
-            if (evenSum % i == 0 && oddSum % i == 0) {
-                gcd = i;
-            }
+        while (evenSum != 0) {
+            int temp = evenSum;
+            evenSum = oddSum % evenSum;
+            oddSum = temp;
         }
 
-        return gcd;
+        return Math.abs(oddSum);
     }
 }
