@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/codewitharman/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/codewitharman/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/codewitharman/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/codewitharman/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/codewitharman/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/codewitharman/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codewitharman/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1970-last-day-where-you-can-still-cross](https://github.com/codewitharman/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/codewitharman/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -664,4 +666,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/codewitharman/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/codewitharman/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/codewitharman/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
