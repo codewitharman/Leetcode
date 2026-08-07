@@ -1,12 +1,14 @@
 class Solution {
     public String convertDateToBinary(String date) {
-        String[] arr = date.split("-");
+        String[] s= date.split("-");
         StringBuilder sb = new StringBuilder();
-        for (String str : arr) {
-            int num = Integer.valueOf(str);
-            sb = sb.append(Integer.toBinaryString(num)).append("-");
+        for (int i = 0; i < s.length; i++) {
+            int num = Integer.parseInt(s[i]);
+            sb.append(Integer.toBinaryString(num));
+            if (i !=s.length - 1) {
+                sb.append("-");
+            }
         }
-        sb.deleteCharAt(sb.length() - 1);
         return sb.toString();
     }
 }
