@@ -1,15 +1,12 @@
 class Solution {
     public int[] transformArray(int[] nums) {
         int[] result = new int[nums.length];
-        int index = 0;
+        int index = nums.length - 1;
         for (int i = 0; i < nums.length; i++) {
-            if (nums[i] % 2 == 0) {
-                result[index++] = 0;
-            } else {
-                result[index++] = 1;
+            if (nums[i] % 2 != 0) {
+                result[index--] = 1;
             }
         }
-        Arrays.sort(result);
         return result;
     }
 }
