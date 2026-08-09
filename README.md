@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/codewitharman/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codewitharman/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/codewitharman/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/codewitharman/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codewitharman/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/codewitharman/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/codewitharman/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/codewitharman/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/codewitharman/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/codewitharman/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codewitharman/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/codewitharman/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/codewitharman/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/codewitharman/Leetcode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2103-rings-and-rods](https://github.com/codewitharman/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/codewitharman/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/codewitharman/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/codewitharman/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2315-count-asterisks](https://github.com/codewitharman/Leetcode/tree/main/2315-count-asterisks/) | Easy |
