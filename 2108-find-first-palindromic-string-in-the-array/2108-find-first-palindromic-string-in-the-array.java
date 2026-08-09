@@ -15,7 +15,6 @@ class Solution {
             if (flag) {
                 return word;
             }
-            System.out.println(word);
         }
         return "";
     }
