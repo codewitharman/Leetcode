@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/codewitharman/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/codewitharman/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/codewitharman/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/codewitharman/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/codewitharman/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/codewitharman/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/codewitharman/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
