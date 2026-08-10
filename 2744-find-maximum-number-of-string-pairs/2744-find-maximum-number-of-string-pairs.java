@@ -13,7 +13,6 @@ class Solution {
                 set.remove(words[i]);
                 set.remove(rev);
             }
-            System.out.println(set);
         }
 
         return count;
