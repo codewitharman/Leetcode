@@ -1,25 +1,28 @@
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
-        Map<Integer, Integer> map = new TreeMap<>();
-        for (int i = 0; i < grid.length; i++) {
-            for (int j = 0; j < grid[i].length; j++) {
-                map.put(grid[i][j], map.getOrDefault(grid[i][j], 0) + 1);
-            }
+        int res[] = new int[2];
+
+        int n = grid.length;
+        int cal = n*n;
+        int expSum = (cal * (cal+1)) / 2;
+        int[] freq = new int[n*n+1];
+        int currSum = 0;
+
+        for(int i=0; i<n; i++) {
+            for(int j=0; j<n; j++) {
+                int val = grid[i][j];
+                if(freq[val] == 0) {
+                    freq[val] += 1;
+                    currSum += val;
+                }
+                else {
+                    res[0] = val;
+                }
+            }    
         }
 
-        int result[] = new int[2];
-        int total = grid.length * grid.length;
-        int expectedSum = total * (total + 1) / 2;
-        int actualSum = 0;
+        res[1] = expSum - currSum;
 
-        for (Map.Entry<Integer, Integer> e : map.entrySet()) {
-            if (e.getValue() == 2) {
-                result[0] = e.getKey();
-            }
-            actualSum += e.getKey();
-        }
-
-        result[1] = expectedSum - actualSum;
-        return result;
+        return res;
     }
 }
