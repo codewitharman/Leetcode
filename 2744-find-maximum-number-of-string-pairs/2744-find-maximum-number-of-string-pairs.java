@@ -18,8 +18,11 @@ class Solution {
         return count;
     }
 
-    public String reverse(String str) {
-        StringBuffer sb = new StringBuffer(str);
-        return sb.reverse().toString();
+    public String reverse(String word) {
+        String rev = "";
+        for (int i = word.length() - 1; i >= 0; i--) {
+            rev += word.charAt(i);
+        }
+        return rev;
     }
 }
