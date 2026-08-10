@@ -1,28 +1,23 @@
 class Solution {
     public int maximumNumberOfStringPairs(String[] words) {
-        Set<String> set = new HashSet<>();
-        int count = 0;
+        Map<String, String> map = new HashMap<>();
         for (String word : words) {
-            set.add(word);
+            String rev = reverse(word);
+            map.put(word, rev);
         }
-
-        for (int i = 0; i < words.length; i++) {
-            String rev = reverse(words[i]);
-            if (!rev.equals(words[i]) && set.contains(rev) && set.contains(words[i])) {
+        int count = 0;
+        for (Map.Entry<String, String> e : map.entrySet()) {
+            String key = e.getKey();
+            String rev = e.getValue();
+            if (!key.equals(rev) && map.containsKey(rev)) {
                 count++;
-                set.remove(words[i]);
-                set.remove(rev);
             }
         }
-
-        return count;
+        return count / 2;
     }
 
     public String reverse(String word) {
-        String rev = "";
-        for (int i = word.length() - 1; i >= 0; i--) {
-            rev += word.charAt(i);
-        }
-        return rev;
+        StringBuffer sb = new StringBuffer(word);
+        return sb.reverse().toString();
     }
 }
