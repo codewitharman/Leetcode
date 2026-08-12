@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/codewitharman/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2418-sort-the-people](https://github.com/codewitharman/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2540-minimum-common-value](https://github.com/codewitharman/Leetcode/tree/master/2540-minimum-common-value) |
+| [2716-minimize-string-length](https://github.com/codewitharman/Leetcode/tree/main/2716-minimize-string-length/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/codewitharman/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/codewitharman/Leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/codewitharman/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/codewitharman/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/codewitharman/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/codewitharman/Leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
+| [2716-minimize-string-length](https://github.com/codewitharman/Leetcode/tree/main/2716-minimize-string-length/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/codewitharman/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/codewitharman/Leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/codewitharman/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
