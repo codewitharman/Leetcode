@@ -5,12 +5,18 @@ class Solution {
         if (s.indexOf(letter) == -1) {
             return 0;
         }
-        Map<Character, Long> map = s.chars().mapToObj(c -> (char) c)
-                .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
-
-        long occurrence = map.getOrDefault(letter, 0l);
-
-        return (int) (occurrence * 100) / s.length();
+        int freq[] = new int[26];
+        for (char ch : s.toCharArray()) {
+            freq[ch - 'a']++;
+        }
+        int occurrence = 0;
+        for (int i = 0; i < freq.length; i++) {
+            char ch = (char) (i + 97);
+            if (ch == letter) {
+                occurrence = freq[i];
+            }
+        }
+        return occurrence * 100 / s.length();
 
     }
 }
