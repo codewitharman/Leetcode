@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/codewitharman/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/codewitharman/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/codewitharman/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/codewitharman/Leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/codewitharman/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/codewitharman/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/codewitharman/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/codewitharman/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codewitharman/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/codewitharman/Leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2418-sort-the-people](https://github.com/codewitharman/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codewitharman/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/codewitharman/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/codewitharman/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/codewitharman/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/codewitharman/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/codewitharman/Leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
