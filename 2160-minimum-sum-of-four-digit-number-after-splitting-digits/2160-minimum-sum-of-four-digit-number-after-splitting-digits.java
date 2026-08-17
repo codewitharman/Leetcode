@@ -1,7 +1,8 @@
+import java.util.*;
+
 class Solution {
     public int minimumSum(int num) {
-        int smallest = Integer.MAX_VALUE;
-        int secondSmallest = Integer.MAX_VALUE;
+
         int nums[] = new int[4];
         int index = 0;
         while (num > 0) {
@@ -9,25 +10,27 @@ class Solution {
             nums[index++] = digit;
             num = num / 10;
         }
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] < smallest) {
-                secondSmallest = smallest;
-                smallest = nums[i];
-            } else if (nums[i] < secondSmallest) {
-                secondSmallest = nums[i];
-            }
-        }
-        int largest = Integer.MIN_VALUE;
-        int secondLargest = Integer.MIN_VALUE;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] > largest) {
-                secondLargest = largest;
-                largest = nums[i];
-            } else if (nums[i] > secondLargest) {
-                secondLargest = nums[i];
-            }
-        }
-        int result = ((smallest * 10) + largest) + ((secondSmallest * 10) + secondLargest);
+        Optional<Integer> smallest = Arrays.stream(nums).boxed()
+                .sorted()
+                .findFirst();
+
+        Optional<Integer> secondSmallest = Arrays.stream(nums).boxed()
+                .sorted()
+                .skip(1)
+                .findFirst();
+
+        Optional<Integer> largest = Arrays.stream(nums)
+                .boxed()
+                .sorted(Comparator.reverseOrder())
+                .findFirst();
+
+        Optional<Integer> secondLargest = Arrays.stream(nums)
+                .boxed()
+                .sorted(Comparator.reverseOrder())
+                .skip(1)
+                .findFirst();
+        int result = ((smallest.orElse(0) * 10) + largest.orElse(0))
+                + ((secondSmallest.orElse(0) * 10) + secondLargest.orElse(0));
         return result;
     }
 }
