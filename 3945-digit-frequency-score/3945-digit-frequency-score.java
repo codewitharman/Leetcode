@@ -1,13 +1,11 @@
 class Solution {
     public int digitFrequencyScore(int n) {
-        Map<Character, Long> map = String.valueOf(n).chars()
+        long sum = String.valueOf(n).chars()
                 .mapToObj(c -> (char) c)
                 .collect(Collectors.groupingBy(
                         Function.identity(),
-                        Collectors.counting()
-                ));
-
-        long sum = map.entrySet()
+                        Collectors.counting()))
+                .entrySet()
                 .stream()
                 .mapToLong(e -> (e.getKey() - '0') * e.getValue())
                 .sum();
