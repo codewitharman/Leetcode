@@ -1,17 +1,16 @@
 class Solution {
     public int digitFrequencyScore(int n) {
-        String str = String.valueOf(n);
-        int[] freq = new int[10];
-        for (int i = 0; i < str.length(); i++) {
-            int num = (int) str.charAt(i) - '0';
-            freq[num]++;
-        }
-        int sum=0;
-        for (int i = 0; i < freq.length; i++) 
-            if (freq[i] > 0) 
-                sum = sum + freq[i] * i;
-            
-        
-        return sum;
+        Map<Character, Long> map = String.valueOf(n).chars()
+                .mapToObj(c -> (char) c)
+                .collect(Collectors.groupingBy(
+                        Function.identity(),
+                        Collectors.counting()
+                ));
+
+        long sum = map.entrySet()
+                .stream()
+                .mapToLong(e -> (e.getKey() - '0') * e.getValue())
+                .sum();
+        return (int) sum;
     }
 }
