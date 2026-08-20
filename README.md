@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/codewitharman/Leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/codewitharman/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/codewitharman/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3285-find-indices-of-stable-mountains](https://github.com/codewitharman/Leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codewitharman/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/codewitharman/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/codewitharman/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
