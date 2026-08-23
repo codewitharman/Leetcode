@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/codewitharman/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/codewitharman/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/codewitharman/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codewitharman/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/codewitharman/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/codewitharman/Leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/codewitharman/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/codewitharman/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/codewitharman/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1816-truncate-sentence](https://github.com/codewitharman/Leetcode/tree/main/1816-truncate-sentence/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codewitharman/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/codewitharman/Leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1920-build-array-from-permutation](https://github.com/codewitharman/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/codewitharman/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/codewitharman/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/codewitharman/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/codewitharman/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codewitharman/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2032-two-out-of-three](https://github.com/codewitharman/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codewitharman/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewitharman/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -686,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/codewitharman/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codewitharman/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/codewitharman/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/codewitharman/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Number Theory
@@ -709,4 +714,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/codewitharman/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codewitharman/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
