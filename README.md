@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/codewitharman/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3894-traffic-signal-color](https://github.com/codewitharman/Leetcode/tree/main/3894-traffic-signal-color/) | Easy |
 | [3945-digit-frequency-score](https://github.com/codewitharman/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
+| [3959-check-good-integer](https://github.com/codewitharman/Leetcode/tree/main/3959-check-good-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/codewitharman/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/codewitharman/Leetcode/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/codewitharman/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3959-check-good-integer](https://github.com/codewitharman/Leetcode/tree/main/3959-check-good-integer/) | Easy |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
