@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/codewitharman/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codewitharman/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/codewitharman/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/codewitharman/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/codewitharman/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/codewitharman/Leetcode/tree/main/3516-find-closest-person/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/codewitharman/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/codewitharman/Leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codewitharman/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/codewitharman/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/codewitharman/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/codewitharman/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/codewitharman/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/codewitharman/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/codewitharman/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/codewitharman/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/codewitharman/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
