@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/codewitharman/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3099-harshad-number](https://github.com/codewitharman/Leetcode/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/codewitharman/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/codewitharman/Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/codewitharman/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/codewitharman/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codewitharman/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/codewitharman/Leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/codewitharman/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/codewitharman/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/codewitharman/Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/codewitharman/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/codewitharman/Leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codewitharman/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
