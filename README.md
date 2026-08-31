@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/codewitharman/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/codewitharman/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2032-two-out-of-three](https://github.com/codewitharman/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/codewitharman/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
