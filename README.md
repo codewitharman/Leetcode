@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/codewitharman/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/codewitharman/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/codewitharman/Leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/codewitharman/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/codewitharman/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/codewitharman/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/codewitharman/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/codewitharman/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/codewitharman/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/codewitharman/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/codewitharman/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2540-minimum-common-value](https://github.com/codewitharman/Leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codewitharman/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/codewitharman/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -744,4 +746,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/codewitharman/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/codewitharman/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
