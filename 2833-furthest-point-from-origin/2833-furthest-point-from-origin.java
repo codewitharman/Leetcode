@@ -1,7 +1,5 @@
 class Solution {
     public int furthestDistanceFromOrigin(String moves) {
-        HashMap<Character, Integer> map = new HashMap<>();
-
         int r = 0;
         int l = 0;
         int x = 0;
