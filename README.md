@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codewitharman/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/codewitharman/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1402-reducing-dishes](https://github.com/codewitharman/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/codewitharman/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/codewitharman/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/codewitharman/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/codewitharman/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/codewitharman/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1402-reducing-dishes](https://github.com/codewitharman/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewitharman/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/codewitharman/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/codewitharman/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/codewitharman/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/codewitharman/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/codewitharman/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [1402-reducing-dishes](https://github.com/codewitharman/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/codewitharman/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/codewitharman/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/codewitharman/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1402-reducing-dishes](https://github.com/codewitharman/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/codewitharman/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/codewitharman/Leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Memoization
